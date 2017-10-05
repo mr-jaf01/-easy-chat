@@ -1,0 +1,32 @@
+#post_style{
+    
+    background-color: #f7f4f4;
+    border: 2px solid #d0d0d0;
+    margin-bottom: 20px;
+    padding: 8px;
+}
+
+#bottom{
+    
+    border-top: 2px solid grey;
+    margin-top: 10px;
+   
+    
+}
+
+#bottom ul li{
+    display: inline-block;
+    padding: 15px;
+   
+}
+
+#tittle{
+    margin-bottom: 12px;
+    
+    
+}
+
+#content{
+     
+     
+}

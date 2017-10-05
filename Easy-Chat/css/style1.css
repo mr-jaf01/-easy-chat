@@ -1,0 +1,47 @@
+#header{
+    height: 150px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 50px;
+    
+}
+
+
+#header1{
+    margin-bottom: 20px;
+}
+
+#login{
+    margin-top: 40px;
+}
+
+#footer{
+    height: 80px;
+    background-color: #006699;
+    margin-top: 60px;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+#new{
+    margin-top: 20px;
+}
+
+#message{
+    margin-top: 20px;
+    width: 400px;
+   
+}
+
+#display{
+   
+    overflow: auto;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 0px;
+}
+
+#reset{
+    margin-top: 10px;
+}

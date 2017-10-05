@@ -1,0 +1,38 @@
+.container-fluid{
+    
+}
+
+.header{
+    height: 60px;
+    background-color:#006699;
+    color: #cccccc;
+    padding-top:2px;
+    padding-left: 12px;
+    
+    
+}
+
+
+.navbar{
+    background-color: #006699;
+    height: 120px;
+    
+}
+.frm{
+    width: 410px;
+}
+
+#Fname{
+    float: left;
+    width: 200px;
+}
+
+#Sname{
+    float: right;
+     width: 200px;
+     margin-left: 2px; 
+}
+
+
+
+

@@ -1,0 +1,68 @@
+body{
+    background-color: white;
+}
+
+#left{
+   
+    background-color: white;
+    padding-bottom: 12px; 
+   
+}
+
+#right{
+    background-color: #f7f4f4;
+    padding-bottom: 12px;
+    
+}
+
+#wrapper{
+    margin: 0px auto;
+    width:900px;
+}
+
+#left_inner{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border: 1px solid #f7f4f4;
+     
+}
+
+#right_inner{
+    margin-top: 12px;
+    border: 2px solid #f7f4f4;
+    height: 208px;
+    margin-bottom: 12px;
+}
+
+#right_inner #pro_img{
+    height: 208px;
+}
+
+#profile_bar{
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background-color: #ebe4e4;
+}
+
+#links{
+    background-color:#f7f4f4;
+}
+#links ul li{
+    display: inline-block;
+    padding: 10px;   
+}
+
+#main_post{
+    
+}
+
+#post_body{
+    margin-top: 12px;
+   
+}
+
+.container-fluid{
+   margin-left:300px;
+   margin-right: 300px;
+}

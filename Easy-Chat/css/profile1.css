@@ -1,0 +1,36 @@
+#wrapper{
+    margin: 0px auto;
+    width: 90%;
+}
+#header{
+    height: 60px;
+    color: #cccccc;
+    background: #006699;
+    margin-bottom: 20px;
+}
+
+#top_div{
+    border: 1px solid gray;
+    height: auto;
+    width:100%; 
+}
+#pic_frame{
+    border: 1px solid grey;
+    height: 400px;
+    background-color: #dedcdc;
+  
+}
+
+#profile_pic{
+    border: 1px solid black;
+    padding-top: 90px;
+}
+img{
+   
+    height: 200px;
+}
+
+#down_div{
+   margin-top: 20px;
+   border: 1px solid black;
+}

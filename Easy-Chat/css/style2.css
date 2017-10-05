@@ -1,0 +1,154 @@
+a{
+	text-decoration:none;
+	
+
+}
+
+nav ul li{
+	display:inline-block;
+        padding-right: 8px;
+        color: white;
+        
+}
+nav ul li:hover{
+	background-color:#006699;
+}
+
+#left_feed{
+     margin-top: 10px;
+     
+    
+}
+#right_feed{
+    margin-top: 40px;
+    margin-left: 20px;
+  
+}
+
+#middle_feed{
+     margin-top: 10px;
+     
+}
+
+
+
+
+
+
+
+
+#profile_bg{
+   
+   
+}
+
+#mainheader{
+    background-color:#d0d0d0;
+    height: 200px;
+}
+
+#link{
+    background-color: #d0d0d0;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#main{
+   
+     margin-top: 40px;
+}
+
+#righ_content{
+    
+    margin-left: 8px;
+}
+
+#intro{
+    background-color: white;
+    height: 250px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#photos{
+    background-color: white;
+    height: 250px;
+    margin-top: 20px;
+     padding-left: 10px;
+     padding-top: 10px;
+}
+
+#friends{
+    background-color: white;
+    height: 250px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#albums{
+    background-color: white;
+    height: 250px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#feature_albums{
+    background-color: white;
+    height: 250px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.post{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+#profile_pic{
+   
+    margin-top: 20px;
+    
+}
+
+#upload_pic_btn{
+    margin-top: 15px;
+}
+
+#password_settings{
+    float: left;
+    margin-top: 40px;
+    width:400px;
+}
+
+#P_info{
+    float: right;
+    margin-top: 40px;
+    width: 300px;
+    margin-bottom: 30px;
+}
+
+#about_me{
+    float: right;
+}
+
+#account_details{
+    
+     clear: both;
+     margin-top: 40px;
+     width: 300px;
+}
+
+.frm{
+    margin-bottom: 30px;
+}
+
+hr{
+    border: 1px solid white;
+}

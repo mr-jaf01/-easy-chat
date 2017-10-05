@@ -1,0 +1,15 @@
+a{
+	text-decoration:none;
+	
+
+}
+
+nav ul li{
+	display:inline-block;
+        padding: 10px;
+        color: white;
+}
+nav ul li:hover{
+	background-color:#006699;
+}
+
